@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef main_h
 #define main_h
 
@@ -14,5 +15,10 @@ void times_table(void);
 int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
+=======
+#ifndef MAIN_H
+#define MAIN_H
+int _putchar(char c)
+>>>>>>> f2010ded4fe5b29d67d4572f395d6f988f685a28
 
 #endif
